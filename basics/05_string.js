@@ -23,7 +23,7 @@ const AnotherString = GameName.slice(-8, 4);
 console.log(AnotherString);
 
 
-const NewStringOne = String("     hitesh     ");
+const NewStringOne = new String("     hitesh     ");
 console.log(NewStringOne);
 console.log(NewStringOne.trim());
 
